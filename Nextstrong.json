@@ -1,0 +1,13 @@
+{
+   "name":"Armstrong",
+   "version":1,
+   "url":null,
+   "images":[
+      "https://static.wikia.nocookie.net/27c91141-1c7d-4444-ad6d-45e4b59aadc5/scale-to-width/755"
+   ],
+   "jumpscare":"https://static.wikia.nocookie.net/27c91141-1c7d-4444-ad6d-45e4b59aadc5/scale-to-width/755",
+   "sounds":[
+      "https://www.youtube.com/watch?v=VOK4NtCkNGg"
+   ],
+   "jumpscareAudio":"https://github.com/byCooler/nbv2Data/raw/main/Nextbots/Official%20Presets/Ambush/Jumpscare_S.mp3"
+}
